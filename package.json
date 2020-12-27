@@ -1,0 +1,11 @@
+{
+  "name": "youtees",
+  "version": "1.0.0",
+  "description": "YouTees Website using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhampreet Mohanty",
+  "license": "MIT"
+}
